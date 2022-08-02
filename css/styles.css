@@ -1,4 +1,4 @@
-.pagewrapper {
+/* .pagewrapper {
   padding: 20px;
   
   display: flex;
@@ -38,6 +38,7 @@
   width: min-content;
 }
 
+ */
 
 
 
@@ -75,7 +76,6 @@
 
 
 
-/* 
 
 
 body {
@@ -99,7 +99,7 @@ p {
 }
 
 img {
-  width: 50px;
+  width: 100%;
   height: auto;
   margin-top: 30px;
   margin-bottom: -5px;
@@ -333,4 +333,4 @@ footer {
     max-width: 50%;
   }
 }
- */
+
